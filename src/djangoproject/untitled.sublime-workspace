@@ -1,0 +1,248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"in",
+				"in\tinterface"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 3092,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: do",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/a1/Documents/tutorial-env",
+		"/Users/a1/Documents/tutorial-env/src",
+		"/Users/a1/Documents/tutorial-env/src/djangoproject"
+	],
+	"file_history":
+	[
+		"/Users/a1/Documents/Repositories /CoolWebsite/index.html",
+		"/Users/a1/Documents/Repositories /nicolft.github.io/assets/css/index.css",
+		"/Users/a1/Documents/Repositories /AdventureClownery/Char.java",
+		"/Users/a1/Desktop/test.java",
+		"/Applications/osu! copy.app/Contents/Resources/drive_c/osu!/Skins/NOOO/skin.ini",
+		"/Applications/Adobe Photoshop CS6/Plug-ins/Panels/coolorus_1.3.1.688/ps/manual/Coolorus.jsx",
+		"/Users/a1/Downloads/colorpicker.zxp",
+		"/Applications/League of Legends.app/Contents/LoL/Config/Champions/Nidalee/Recommended/RIOT_ItemSet_4.json",
+		"/Users/a1/Library/Preferences/com.apple.HIToolbox.plist",
+		"/Users/a1/Desktop/TEMP/temp.java",
+		"/Users/a1/Documents/Repositories /nicolft.github.io/index.html",
+		"/Users/a1/Downloads/webfontkit-20200623-071443/hype-demo.html",
+		"/Users/a1/Desktop/TEMP/code dissection/activity_my.xml",
+		"/Users/a1/Desktop/TEMP/code dissection/AlarmActivity.java",
+		"/Users/a1/Desktop/TEMP/code dissection/AndroidManifext.xml",
+		"/Users/a1/Desktop/TEMP/code dissection/AlarmService.java",
+		"/Users/a1/Documents/repositurries/Adventure/Adventure.java",
+		"/Users/a1/Desktop/TEMP/Adventure.java",
+		"/Users/a1/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "settings.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								425,
+								425
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
